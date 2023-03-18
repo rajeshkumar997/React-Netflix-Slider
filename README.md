@@ -1,2 +1,2 @@
 # React-Netflix-Slider
-Created with CodeSandbox
+Project Hosted Link - https://react-netflix-slider.vercel.app/
